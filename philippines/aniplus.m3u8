@@ -1,6 +1,21 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:3994
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
 #EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.ts
+#EXTINF:9.800000,
+#EXTINF:9.800000,
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2_3994.ts
+#EXTINF:10.120000,
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2_3995.ts
+#EXTINF:10.040000,
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2_3996.ts
+#EXTINF:10.160000,
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2_3997.ts
+#EXTINF:9.600000,
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2_3998.ts
+#EXTINF:10.120000,
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2_3999.ts
+
+## https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.ts

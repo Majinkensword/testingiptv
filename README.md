@@ -1,5 +1,5 @@
-# mIPTV
+# IPTV Testing
 
-My own private TV.
+My own testing of IPTV feeds.
 
-⛔NOT FOR SHARING, SALE, RE-SELL or USE FOR PUBLIC VIEWING, for Private Use only!⚔️"
+⛔For educational purposes only. NOT FOR SHARING, SALE, RE-SELL or USE FOR PUBLIC VIEWING, for Private Use only!⚔️"

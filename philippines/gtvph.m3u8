@@ -4,5 +4,5 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:network-caching=60000
 #EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
+#EXTINF:10.002,
 http://115.146.176.131:80/live/TimRizal/TimRizal/35

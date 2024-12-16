@@ -3,6 +3,6 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=15000
+#EXTVLCOPT:network-caching=60000
 #EXTINF:1,
 http://115.146.176.131/live/TimRizal/TimRizal/14.ts
